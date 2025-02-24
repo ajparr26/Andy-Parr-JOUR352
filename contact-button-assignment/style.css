@@ -1,0 +1,38 @@
+/*
+MY COLOR PALETTE
+Color 1 - #086788
+Color 2 - #F07F06
+Color 3 - #0B0B0C
+Color 4 - #00E8FC
+Color 5 - #F6F7EB
+*/
+
+body {
+    background-color: #086788;
+    text-align: center;
+}
+button {
+    background-color: #f07f06;
+    color: #f6f7eb;
+    font-family: "Karla", serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    width: 300px;
+    padding: 15px;
+    margin: 25px;
+    border: none;
+    border-radius: 50px;
+}
+button:hover {
+    background-color: #00e8fc;
+}
+h1 {
+    font-family: "Rubik", serif;
+    color: #f6f7eb;
+}
+h2 {
+    font-family: "Karla", serif;
+    color: #f6f7eb;
+}
