@@ -46,11 +46,11 @@ font-family: "Rubik", serif;
         margin: auto;
         display: block;
     }
-    
+
     button:hover {
         background-color: #ff914d;
     }
-    
+
     a {
         text-decoration: none;
     }
