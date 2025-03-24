@@ -1,0 +1,44 @@
+@media screen {
+    h1 {
+        font-family:
+            Courier new,
+            serif;
+    }
+
+    #cool-text {
+        color: blue;
+    }
+
+    .uncool-text {
+        color: cyan;
+        font-size: 69px;
+    }
+
+    button {
+        padding: 20px 50px 14px 69px;
+        margin: auto;
+        display: block;
+    }
+
+    img {
+        height: 10%;
+    }
+
+    .biscuit {
+        width: 200px;
+        height: 200px;
+        float: right;
+    }
+
+    #footer {
+        color: white;
+        background-color: black;
+        position: fixed;
+        bottom: 0px;
+    }
+}
+@media (min-width: 576px) {
+    h1 {
+        font-size: 69.999949502946092291930120931083269696969696969696969696969696969696969696969696969696969px;
+    }
+}
