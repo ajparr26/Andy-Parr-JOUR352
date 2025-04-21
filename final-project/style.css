@@ -1,1 +1,10 @@
+#topper {
+    background-image: url(josh_mccreary_getty_images_ovi895.jpg);
+    background-size: cover;
+    height: 800px;
+}
 
+#header {
+    font-size: 100px;
+    
+}
