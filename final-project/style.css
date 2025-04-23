@@ -1,10 +1,69 @@
+body {
+    background-color: #192a65;
+}
+
 #topper {
     background-image: url(josh_mccreary_getty_images_ovi895.jpg);
     background-size: cover;
-    height: 800px;
+    height: 850px;
 }
 
 #header {
     font-size: 100px;
+}
+
+.subhead {
+    text-align-last: center;
+}
+
+#main-body {
+    color: #ffffff;
+    text-align: left;
+    justify-content: center;
+}
+
+.attribution {
+    color: #737373;
+    text-align: center;
+    font-size: 8.5px;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%
+}
+
+.pull-quote {
+    color: #be221b;
+    text-align: center;
+    font-size: 50px
+}
+
+.pq-att {
+    color: #be221b;
+    text-align: center;
+    font-size:27px;
+}
+
+#cover-attribution {
+    color: #737373;
+    font-size: 8.5px;
+    text-align: right;
+    margin-bottom: 0;
+}
+
+@media (min-width: 576px) {
+    #header {
+        font-size: 100px;
+    }
     
+    video {
+        width: 100%
+    }
 }
