@@ -58,6 +58,10 @@ img {
     margin-bottom: 0;
 }
 
+#disclaimer {
+    /* fill out info later */
+}
+
 @media (min-width: 576px) {
     #header {
         font-size: 100px;
