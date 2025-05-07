@@ -6,10 +6,14 @@ body {
     background-image: url(josh_mccreary_getty_images_ovi895.jpg);
     background-size: cover;
     height: 850px;
+    background-position: 10% 10%;
 }
 
 #header {
     font-size: 100px;
+    padding: 10px 0px 45% 0px;
+    color: #192a65;
+    text-shadow: 2px 4px lightblue;
 }
 
 .subhead {
@@ -20,6 +24,7 @@ body {
     color: #ffffff;
     text-align: left;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .attribution {
@@ -36,19 +41,19 @@ video {
 img {
     display: block;
     margin: auto;
-    width: 100%
+    width: 100%;
 }
 
 .pull-quote {
     color: #be221b;
     text-align: center;
-    font-size: 50px
+    font-size: 50px;
 }
 
 .pq-att {
     color: #be221b;
     text-align: center;
-    font-size:27px;
+    font-size: 27px;
 }
 
 #cover-attribution {
@@ -66,8 +71,8 @@ img {
     #header {
         font-size: 100px;
     }
-    
+
     video {
-        width: 100%
+        width: 100%;
     }
 }
