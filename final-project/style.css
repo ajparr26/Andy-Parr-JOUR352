@@ -13,24 +13,27 @@ body {
     font-size: 100px;
     padding: 10px 0px 45% 0px;
     color: #192a65;
-    text-shadow: 2px 4px lightblue;
+    text-shadow: 2px 4px red;
+    font-family: Rubik, sans-serif;
 }
 
 .subhead {
     text-align-last: center;
+    font-family: Rubik, sans-serif;
 }
 
 #main-body {
     color: #ffffff;
     text-align: left;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 40px;
+    font-family: Merriweather, serif;
 }
 
 .attribution {
     color: #737373;
     text-align: center;
-    font-size: 8.5px;
+    font-size: 12px;
 }
 
 video {
@@ -64,7 +67,7 @@ img {
 }
 
 #disclaimer {
-    /* fill out info later */
+    font-size: 12px;
 }
 
 @media (min-width: 576px) {
